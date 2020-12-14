@@ -1,0 +1,6 @@
+Manasa/English/Hindi/Punjabi
+Veknat/English/Kannada/Tamil/Telugu
+Paul/Malayalam/Marathi/Tamil/Telugu
+Paula/English/Marathi/Tamil/Telugu
+Harish/Punjabi/Gujarati/English/Hindi
+Ramkumar/English/Marathi/Kannada/Bengali
